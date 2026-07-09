@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+My name is George, and I'm a Full Stack Developer based in the UK!
+
+I have a background in engineering but pivoted when leaving university to focus on programming.
+
+I'm currently working on a portfolio site to show what I've learned in the last 5 years of doing this full-time and to use it as a dumping ground for fun ideas and to toy with APIs for software I use daily!
+
+This is my attempt at taking what I do for a living and incorporating it more into my day-to-day life by actually showing off my work in public repos rather than burying it in my ever-growing private repos shame pile.
+
+
 <!--
 **Jgbroz/Jgbroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
