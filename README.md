@@ -12,7 +12,7 @@ This is my attempt at taking what I do for a living and incorporating it more in
 
 ### Facts and Hobbies about me!
 - I am a massive nerd for all sorts of tabletop games like DnD and Warhammer and plan to show it off in my portfolio site!
-- I used to be huge into robotics and even ran the Roboteers society for combat robots (think BattleBots and Robot Wars for my fellow Brits)
+- I used to be huge into robotics and even ran the Roboteers society at my university for a bit for combat robots (think BattleBots and Robot Wars for my fellow Brits)
 - I also 3D print a bunch and have made some cool electronic masks that I have hand-painted in the past
 <!--
 **Jgbroz/Jgbroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
